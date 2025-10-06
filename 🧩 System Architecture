@@ -1,0 +1,9 @@
+Drivers → Flutter Mobile App
+Managers/Admins → Flutter Web Portal
+│
+│
+Backend API (Node.js / FastAPI)
+│
+└── PostgreSQL Database (Azure)
+│
+└── Azure Blob Storage + Notification Services
