@@ -1,0 +1,14 @@
+/lib
+  main.dart
+  /screens
+  /widgets
+  /models
+
+/backend
+  app.js
+  routes/
+  controllers/
+
+/docs
+  system_architecture.png
+  feature_list.md
